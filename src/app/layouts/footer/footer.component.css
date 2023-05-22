@@ -1,0 +1,16 @@
+footer{
+    height:160px;
+    padding: 15px;
+    background-color: var(--navbar-footer-color);
+    margin-top:75vh ;
+}
+
+.site-logo{
+    font-size: 1.6rem;
+}
+
+.nav-link{
+    color: var(--primary-color);
+    text-transform: uppercase;
+    font-size:1.1rem ;
+}
